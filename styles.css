@@ -1,0 +1,42 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #404d61;
+}
+
+h1 {
+  font-family: "Press Start 2P";
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "play", sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+.footer {
+  margin-top: 10%;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 1rem;
+}
